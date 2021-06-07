@@ -1,1 +1,1 @@
-# java_school_program
+# 1) All the source code is given in .java file.
